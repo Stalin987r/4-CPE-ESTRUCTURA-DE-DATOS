@@ -1,0 +1,8 @@
+Ana:85
+Luis:72
+Maria:90
+Pedro:65
+Sofia:78
+Carlos:88
+Elena:95
+Jorge:60
